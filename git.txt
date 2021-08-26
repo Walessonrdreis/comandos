@@ -1,5 +1,35 @@
 COMANDOS DE TERMINAL GIT
-Após a instalção do git é necessario se identificar ao GIT com os comandos:
+Após a instalação do git é necessário se identificar ao GIT com os comandos:
 $ git config --global user.name "Seu nome"
+
 $ git config --global user.email "seu@email.com"
+
+No TERMINAL(GIT BASH se baseando que já foi criada a pasta pessoal que também será seu repositório)
+
+$ cd ~/pasta/subpasta/pastadorepositorio
+
+
+
+// Transformar o diretório da pasta pessoal em um repositório git(uma pasta oculta será criada .git)
+
+$ git init    
+
+
+
+// Ver a situações dos arquivos no repositório
+
+$ git status 
+
+
+
+// Rastrear o arquivo que está dentro do repositório(No início não foi rastreado pelo git)
+
+$ git add nome_arquivo.extensão(.txt,.js.md,etc.)
+
+// Grava o arquivo no repositório
+
+$ git commit -m "descrição inicial ex:Arquivo inicial"
+
+
+
 

@@ -1,1 +1,4 @@
 Repositório com a ideia de apresentar de forma fácil comandos do git no terminal. 
+
+É importante lembrar que, sempre que for criar um repositório em seu desktop em uma pasta pessoal, mesmo os projetos mais simples use o Git/Github, isso pra quem está começando assim como eu, é de extrema importância, pois será um ganho de experiência incrível para quem sempre irá usar ferramentas chamadas de Sistema de Controle de versão.
+"Desde o final da década de 1990, já existia esse tipo de ferramenta, dentre eles estão CVS, ClearCase, Source-Safe e SVN(Que ainda é bastante usado em empresa)" (Aquiles, Ferreira p.3)
